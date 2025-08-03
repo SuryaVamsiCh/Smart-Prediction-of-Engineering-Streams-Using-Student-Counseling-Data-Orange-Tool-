@@ -1,0 +1,220 @@
+Timestamp,Name,Gender,Categories,Rank,Counseling Round,Local/Non-Local,Annual income,"Branch( CSE, ECE, IT, ME, EEE,)"
+3/26/2025 21:23:34,Jaswanth,Male,OBC,20000.0,1,Non-Local,90000.0,CSE
+3/26/2025 21:24:03,Dasari Sarika,Female,OBC,1.0,1,Non-Local,500000.0,CSE
+3/26/2025 21:25:07,Alla Veladri,Male,General,13000.0,1,Local,25000.0,CSE
+3/26/2025 21:25:53,Lalitha,Female,OBC,13000.0,2,Local,60000.0,CSE
+3/26/2025 21:26:25,Pandu nayak,Male,ST,80000.0,1,Non-Local,80000.0,CSE
+3/26/2025 21:26:32,Kurshid begam,Female,ST,14000.0,1,Non-Local,40000.0,CSE
+3/26/2025 21:27:50,Vijaya sri,Female,ST,40000.0,1,Non-Local,85000.0,ECE
+3/26/2025 21:28:19,Dustin Handrison,Male,General,1200.0,1,Local,100000.0,IT
+3/26/2025 21:28:55,Luffy,Male,General,1200.0,2,Non-Local,150000.0,ME
+3/26/2025 21:30:25,Roronoa Zoro,Male,General,1400.0,1,Local,200000.0,CSE
+3/26/2025 21:30:38,Bhanu sri,Female,General,4836.0,2,Local,120000.0,IT
+3/26/2025 21:32:09,Ulisi.ManiRathnam,Male,General,80000.0,2,Non-Local,100000.0,CSE
+3/26/2025 21:36:35,Saranya,Female,General,11706.0,2,Non-Local,100000.0,CSE
+3/26/2025 21:37:46,Revathi,Female,General,10000.0,1,Local,1000000.0,CSE
+3/26/2025 21:38:26,Devaki,Female,General,1000.0,1,Local,2000000.0,CSE
+3/26/2025 21:38:30,Ulisi.ManiRathnam,Male,General,80000.0,2,Non-Local,100000.0,CSE
+3/26/2025 21:39:06,Renu,Female,OBC,468967.0,2,Non-Local,356785.0,ECE
+3/26/2025 21:39:11,ulisi.manirathnam,Male,General,80000.0,2,Non-Local,100000.0,CSE
+3/26/2025 21:39:38,Sunny,Male,SC,43678.0,3,Non-Local,5435799.0,IT
+3/26/2025 21:39:53,Uliai.ManiRathnam,Male,General,80000.0,2,Non-Local,100000.0,CSE
+3/26/2025 21:40:15,Bunny,Male,ST,5357.0,2,Non-Local,536805.0,ME
+3/26/2025 21:40:37,Ulisi.ManiRathnam,Male,General,80000.0,2,Non-Local,100000.0,CSE
+3/26/2025 21:40:55,Chinni,Female,SC,4677.0,1,Non-Local,467546.0,ECE
+3/26/2025 21:41:34,Girija kumari,Female,OBC,23456.0,3,Non-Local,35263.0,ME
+3/26/2025 21:41:34,Ganga,Female,General,46787.0,2,Local,579066.0,CSE
+3/26/2025 21:42:05,Raju,Male,General,3579.0,1,Local,546899.0,ME
+3/26/2025 21:42:22,Sanmena shaik,Female,SC,45789.0,3,Local,34567.0,EEE
+3/26/2025 21:42:36,Rani,Female,SC,54790.0,3,Non-Local,458993.0,EEE
+3/26/2025 21:43:27,Clara,Female,OBC,3566.0,1,Local,3579007.0,CSE
+3/26/2025 21:44:00,Mani,Male,General,457888.0,1,Local,4578906.0,ME
+3/26/2025 21:44:43,Imran,Male,ST,46899.0,2,Non-Local,46797546.0,ECE
+3/26/2025 21:46:41,Teddy,Male,General,10000.0,1,Local,500000.0,CSE
+3/26/2025 21:46:54,None of ur business,Female,General,322.0,1,Non-Local,10000000.0,CSE
+3/26/2025 21:47:45,Teddy,Male,General,10000.0,2,Local,600000.0,CSE
+3/26/2025 21:48:33,Surya,Female,OBC,9000.0,1,Non-Local,500000.0,ECE
+3/26/2025 21:50:50,Vamsi,Male,SC,25000.0,2,Local,300000.0,CSE
+3/26/2025 21:52:28,Prasanna,Female,General,1200.0,1,Local,50000.0,CSE
+3/26/2025 22:03:38,kishore,Male,SC,154784.0,2,Local,100000.0,EEE
+3/26/2025 22:04:41,uday,Male,General,225.0,1,Non-Local,750000.0,ECE
+3/26/2025 22:05:32,Ranna,Female,ST,65000.0,1,Local,25000.0,IT
+3/26/2025 22:17:17,G.Rishik,Male,OBC,21946.0,1,Non-Local,80000.0,CSE
+3/26/2025 22:25:48,Jon snow,Male,General,100000.0,1,Non-Local,300000.0,CSE
+3/26/2025 22:28:52,Chaitanya,Male,General,67412.0,2,Non-Local,300000.0,CSE
+3/26/2025 22:33:37,Santhosh,Male,General,512.0,1,Non-Local,200000.0,CSE
+3/26/2025 22:34:35,Kiran,Male,OBC,2367.0,1,Local,1000000.0,CSE
+3/26/2025 22:51:06,Jhansi Chekuri,Female,General,48475.0,2,Non-Local,100000.0,EEE
+3/26/2025 23:10:59,Penmetsa Sri Rishita Varma,Female,General,75435.0,2,Local,300000.0,CSE
+3/27/2025 5:51:03,Mr.Momon,Male,General,4.0,1,Local,20000.0,CSE
+3/27/2025 7:58:37,BSKN,Male,ST,1.0,1,Local,1000000000.0,CSE
+3/27/2025 7:59:32,Bskn,Male,ST,10.0,2,Non-Local,690000.0,ECE
+3/27/2025 8:00:52,B.Sai,Male,General,100.0,3,Local,900000.0,IT
+3/27/2025 9:10:52,vishnu,Male,SC,85200.0,1,Local,65000.0,ME
+3/27/2025 9:13:57,King Kohli,Male,OBC,1800.0,1,Non-Local,10000.0,CSE
+3/27/2025 9:15:07,Anushka sharma,Female,General,1500.0,2,Non-Local,10000.0,IT
+3/27/2025 9:15:15,Rahul,Male,OBC,1.0,2,Non-Local,70000.0,CSE
+3/27/2025 9:16:13,konda vamsi,Male,General,0.0,2,Local,100000.0,CSE
+3/27/2025 9:16:20,Pawan kalyan,Male,General,2400.0,3,Local,120000.0,ECE
+3/27/2025 9:16:45,vardhan,Male,OBC,1.0,2,Local,80000.0,CSE
+3/27/2025 9:17:41,charan kodenti,Male,General,9999.0,2,Non-Local,75000.0,IT
+3/27/2025 9:17:44,M.Nreash,Male,OBC,3450.0,2,Local,150000.0,ME
+3/27/2025 9:17:53,Surya prakash,Female,General,16000.0,1,Local,150000.0,ME
+3/27/2025 9:18:04,Zoro,Male,General,130000.0,1,Local,130000.0,IT
+3/27/2025 9:18:12,hareram,Male,OBC,18042.0,2,Non-Local,45000.0,CSE
+3/27/2025 9:18:47,Nibba,Male,OBC,28000.0,1,Local,100000.0,ECE
+3/27/2025 9:18:52,R.Mahesh Raj,Male,General,4503.0,1,Non-Local,50000.0,IT
+3/27/2025 9:19:06,alleluya,Male,SC,76893.0,1,Local,50000.0,CSE
+3/27/2025 9:19:34,ahad pakodala,Male,SC,102000.0,1,Non-Local,300000.0,ME
+3/27/2025 9:19:51,Yesu,Male,General,2500.0,1,Local,50000.0,ME
+3/27/2025 9:20:03,saleem,Male,General,22425.0,2,Non-Local,52000.0,ECE
+3/27/2025 9:20:04,L.Ramu,Male,SC,30067.0,2,Non-Local,70000.0,ECE
+3/27/2025 9:20:11,Bhaskar,Male,General,20000.0,2,Local,200000.0,CSE
+3/27/2025 9:21:05,mangapathi,Male,General,1300.0,1,Local,75000.0,IT
+3/27/2025 9:21:06,anaar kali,Female,OBC,21645.0,3,Non-Local,49000.0,IT
+3/27/2025 9:21:21,G.Gopi Kumar,Male,OBC,4789.0,2,Local,85000.0,EEE
+3/27/2025 9:21:39,Tiger nageswar rao,Male,General,22000.0,1,Local,200000.0,CSE
+3/27/2025 9:21:51,Nayak,Male,ST,5500.0,1,Non-Local,150000.0,IT
+3/27/2025 9:21:58,BhAAi babu,Male,SC,57079.0,2,Local,180000.0,CSE
+3/27/2025 9:21:58,banda,Male,OBC,30000.0,1,Local,60000.0,ME
+3/27/2025 9:22:06,hari krishna,Male,General,16256.0,1,Local,57000.0,CSE
+3/27/2025 9:22:10,B.Babu Rao,Male,OBC,7008.0,1,Local,80000.0,ME
+3/27/2025 9:22:50,Anand,Male,General,80000.0,2,Local,25000.0,ECE
+3/27/2025 9:29:54,Donle,Male,SC,20000.0,1,Local,60000.0,CSE
+3/27/2025 9:31:25,Chandana,Female,OBC,2000.0,1,Non-Local,59000.0,ECE
+3/27/2025 9:32:06,Suresh,Male,OBC,40000.0,1,Non-Local,70000.0,IT
+3/27/2025 9:37:14,Remo,Male,General,20000.0,1,Local,100000.0,ECE
+3/26/2025 21:23:34,Jaswanth,Male,OBC,20000.0,1,Non-Local,90000.0,CSE
+3/26/2025 21:24:03,Dasari Sarika,Female,OBC,1.0,1,Non-Local,500000.0,CSE
+3/26/2025 21:25:07,Alla Veladri,Male,General,13000.0,1,Local,25000.0,CSE
+3/26/2025 21:25:53,Lalitha,Female,OBC,13000.0,2,Local,60000.0,CSE
+3/26/2025 21:26:25,Pandu nayak,Male,ST,80000.0,1,Non-Local,80000.0,CSE
+3/26/2025 21:26:32,Kurshid begam,Female,ST,14000.0,1,Non-Local,40000.0,CSE
+3/26/2025 21:27:50,Vijaya sri,Female,ST,40000.0,1,Non-Local,85000.0,ECE
+3/26/2025 21:28:19,Dustin Handrison,Male,General,1200.0,1,Local,100000.0,IT
+3/26/2025 21:28:55,Luffy,Male,General,1200.0,2,Non-Local,150000.0,ME
+3/26/2025 21:30:25,Roronoa Zoro,Male,General,1400.0,1,Local,200000.0,CSE
+3/26/2025 21:30:38,Bhanu sri,Female,General,4836.0,2,Local,120000.0,IT
+3/26/2025 21:32:09,Ulisi.ManiRathnam,Male,General,80000.0,2,Non-Local,100000.0,CSE
+3/26/2025 21:36:35,Saranya,Female,General,11706.0,2,Non-Local,100000.0,CSE
+3/26/2025 21:37:46,Revathi,Female,General,10000.0,1,Local,1000000.0,CSE
+3/26/2025 21:38:26,Devaki,Female,General,1000.0,1,Local,2000000.0,CSE
+3/26/2025 21:38:30,Ulisi.ManiRathnam,Male,General,80000.0,2,Non-Local,100000.0,CSE
+3/26/2025 21:39:06,Renu,Female,OBC,468967.0,2,Non-Local,356785.0,ECE
+3/26/2025 21:39:11,ulisi.manirathnam,Male,General,80000.0,2,Non-Local,100000.0,CSE
+3/26/2025 21:39:38,Sunny,Male,SC,43678.0,3,Non-Local,5435799.0,IT
+3/26/2025 21:39:53,Uliai.ManiRathnam,Male,General,80000.0,2,Non-Local,100000.0,CSE
+3/26/2025 21:40:15,Bunny,Male,ST,5357.0,2,Non-Local,536805.0,ME
+3/26/2025 21:40:37,Ulisi.ManiRathnam,Male,General,80000.0,2,Non-Local,100000.0,CSE
+3/26/2025 21:40:55,Chinni,Female,SC,4677.0,1,Non-Local,467546.0,ECE
+3/26/2025 21:41:34,Girija kumari,Female,OBC,23456.0,3,Non-Local,35263.0,ME
+3/26/2025 21:41:34,Ganga,Female,General,46787.0,2,Local,579066.0,CSE
+3/26/2025 21:42:05,Raju,Male,General,3579.0,1,Local,546899.0,ME
+3/26/2025 21:42:22,Sanmena shaik,Female,SC,45789.0,3,Local,34567.0,EEE
+3/26/2025 21:42:36,Rani,Female,SC,54790.0,3,Non-Local,458993.0,EEE
+3/26/2025 21:43:27,Clara,Female,OBC,3566.0,1,Local,3579007.0,CSE
+3/26/2025 21:44:00,Mani,Male,General,457888.0,1,Local,4578906.0,ME
+3/26/2025 21:44:43,Imran,Male,ST,46899.0,2,Non-Local,46797546.0,ECE
+3/26/2025 21:46:41,Teddy,Male,General,10000.0,1,Local,500000.0,CSE
+3/26/2025 21:46:54,None of ur business,Female,General,322.0,1,Non-Local,10000000.0,CSE
+3/26/2025 21:47:45,Teddy,Male,General,10000.0,2,Local,600000.0,CSE
+3/26/2025 21:48:33,Surya,Female,OBC,9000.0,1,Non-Local,500000.0,ECE
+3/26/2025 21:50:50,Vamsi,Male,SC,25000.0,2,Local,300000.0,CSE
+3/26/2025 21:52:28,Prasanna,Female,General,1200.0,1,Local,50000.0,CSE
+3/26/2025 22:03:38,kishore,Male,SC,154784.0,2,Local,100000.0,EEE
+3/26/2025 22:04:41,uday,Male,General,225.0,1,Non-Local,750000.0,ECE
+3/26/2025 22:05:32,Ranna,Female,ST,65000.0,1,Local,25000.0,IT
+3/26/2025 22:17:17,G.Rishik,Male,OBC,21946.0,1,Non-Local,80000.0,CSE
+3/26/2025 22:25:48,Jon snow,Male,General,100000.0,1,Non-Local,300000.0,CSE
+3/26/2025 22:28:52,Chaitanya,Male,General,67412.0,2,Non-Local,300000.0,CSE
+3/26/2025 22:33:37,Santhosh,Male,General,512.0,1,Non-Local,200000.0,CSE
+3/26/2025 22:34:35,Kiran,Male,OBC,2367.0,1,Local,1000000.0,CSE
+3/26/2025 22:51:06,Jhansi Chekuri,Female,General,48475.0,2,Non-Local,100000.0,EEE
+3/26/2025 23:10:59,Penmetsa Sri Rishita Varma,Female,General,75435.0,2,Local,300000.0,CSE
+3/27/2025 5:51:03,Mr.Momon,Male,General,4.0,1,Local,20000.0,CSE
+3/27/2025 7:58:37,BSKN,Male,ST,1.0,1,Local,1000000000.0,CSE
+3/27/2025 7:59:32,Bskn,Male,ST,10.0,2,Non-Local,690000.0,ECE
+3/27/2025 8:00:52,B.Sai,Male,General,100.0,3,Local,900000.0,IT
+3/27/2025 9:10:52,vishnu,Male,SC,85200.0,1,Local,65000.0,ME
+3/27/2025 9:13:57,King Kohli,Male,OBC,1800.0,1,Non-Local,10000.0,CSE
+3/27/2025 9:15:07,Anushka sharma,Female,General,1500.0,2,Non-Local,10000.0,IT
+3/27/2025 9:15:15,Rahul,Male,OBC,1.0,2,Non-Local,70000.0,CSE
+3/27/2025 9:16:13,konda vamsi,Male,General,0.0,2,Local,100000.0,CSE
+3/27/2025 9:16:20,Pawan kalyan,Male,General,2400.0,3,Local,120000.0,ECE
+3/27/2025 9:16:45,vardhan,Male,OBC,1.0,2,Local,80000.0,CSE
+3/27/2025 9:17:41,charan kodenti,Male,General,9999.0,2,Non-Local,75000.0,IT
+3/27/2025 9:17:44,M.Nreash,Male,OBC,3450.0,2,Local,150000.0,ME
+3/27/2025 9:17:53,Surya prakash,Female,General,16000.0,1,Local,150000.0,ME
+3/27/2025 9:18:04,Zoro,Male,General,130000.0,1,Local,130000.0,IT
+3/27/2025 9:18:12,hareram,Male,OBC,18042.0,2,Non-Local,45000.0,CSE
+3/27/2025 9:18:47,Nibba,Male,OBC,28000.0,1,Local,100000.0,ECE
+3/27/2025 9:18:52,R.Mahesh Raj,Male,General,4503.0,1,Non-Local,50000.0,IT
+3/27/2025 9:19:06,alleluya,Male,SC,76893.0,1,Local,50000.0,CSE
+3/27/2025 9:19:34,ahad pakodala,Male,SC,102000.0,1,Non-Local,300000.0,ME
+3/27/2025 9:19:51,Yesu,Male,General,2500.0,1,Local,50000.0,ME
+3/27/2025 9:20:03,saleem,Male,General,22425.0,2,Non-Local,52000.0,ECE
+3/27/2025 9:20:04,L.Ramu,Male,SC,30067.0,2,Non-Local,70000.0,ECE
+3/27/2025 9:20:11,Bhaskar,Male,General,20000.0,2,Local,200000.0,CSE
+3/27/2025 9:21:05,mangapathi,Male,General,1300.0,1,Local,75000.0,IT
+3/27/2025 9:21:06,anaar kali,Female,OBC,21645.0,3,Non-Local,49000.0,IT
+3/27/2025 9:21:21,G.Gopi Kumar,Male,OBC,4789.0,2,Local,85000.0,EEE
+3/27/2025 9:21:39,Tiger nageswar rao,Male,General,22000.0,1,Local,200000.0,CSE
+3/27/2025 9:21:51,Nayak,Male,ST,5500.0,1,Non-Local,150000.0,IT
+3/27/2025 9:21:58,BhAAi babu,Male,SC,57079.0,2,Local,180000.0,CSE
+3/27/2025 9:21:58,banda,Male,OBC,30000.0,1,Local,60000.0,ME
+3/27/2025 9:22:06,hari krishna,Male,General,16256.0,1,Local,57000.0,CSE
+3/27/2025 9:22:10,B.Babu Rao,Male,OBC,7008.0,1,Local,80000.0,ME
+3/27/2025 9:22:50,Anand,Male,General,80000.0,2,Local,25000.0,ECE
+3/27/2025 9:29:54,Donle,Male,SC,20000.0,1,Local,60000.0,CSE
+3/27/2025 9:31:25,Chandana,Female,OBC,2000.0,1,Non-Local,59000.0,ECE
+3/27/2025 9:32:06,Suresh,Male,OBC,40000.0,1,Non-Local,70000.0,IT
+3/27/2025 9:37:14,Remo,Male,General,20000.0,1,Local,100000.0,ECE
+3/26/2025 21:23:34,Jaswanth,Male,OBC,20000.0,1,Non-Local,90000.0,CSE
+3/26/2025 21:24:03,Dasari Sarika,Female,OBC,1.0,1,Non-Local,500000.0,CSE
+3/26/2025 21:25:07,Alla Veladri,Male,General,13000.0,1,Local,25000.0,CSE
+3/26/2025 21:25:53,Lalitha,Female,OBC,13000.0,2,Local,60000.0,CSE
+3/26/2025 21:26:25,Pandu nayak,Male,ST,80000.0,1,Non-Local,80000.0,CSE
+3/26/2025 21:26:32,Kurshid begam,Female,ST,14000.0,1,Non-Local,40000.0,CSE
+3/26/2025 21:27:50,Vijaya sri,Female,ST,40000.0,1,Non-Local,85000.0,ECE
+3/26/2025 21:28:19,Dustin Handrison,Male,General,1200.0,1,Local,100000.0,IT
+3/26/2025 21:28:55,Luffy,Male,General,1200.0,2,Non-Local,150000.0,ME
+3/26/2025 21:30:25,Roronoa Zoro,Male,General,1400.0,1,Local,200000.0,CSE
+3/26/2025 21:30:38,Bhanu sri,Female,General,4836.0,2,Local,120000.0,IT
+3/26/2025 21:32:09,Ulisi.ManiRathnam,Male,General,80000.0,2,Non-Local,100000.0,CSE
+3/26/2025 21:36:35,Saranya,Female,General,11706.0,2,Non-Local,100000.0,CSE
+3/26/2025 21:37:46,Revathi,Female,General,10000.0,1,Local,1000000.0,CSE
+3/26/2025 21:38:26,Devaki,Female,General,1000.0,1,Local,2000000.0,CSE
+3/26/2025 21:38:30,Ulisi.ManiRathnam,Male,General,80000.0,2,Non-Local,100000.0,CSE
+3/26/2025 21:39:06,Renu,Female,OBC,468967.0,2,Non-Local,356785.0,ECE
+3/26/2025 21:39:11,ulisi.manirathnam,Male,General,80000.0,2,Non-Local,100000.0,CSE
+3/26/2025 21:39:38,Sunny,Male,SC,43678.0,3,Non-Local,5435799.0,IT
+3/26/2025 21:39:53,Uliai.ManiRathnam,Male,General,80000.0,2,Non-Local,100000.0,CSE
+3/26/2025 21:40:15,Bunny,Male,ST,5357.0,2,Non-Local,536805.0,ME
+3/26/2025 21:40:37,Ulisi.ManiRathnam,Male,General,80000.0,2,Non-Local,100000.0,CSE
+3/26/2025 21:40:55,Chinni,Female,SC,4677.0,1,Non-Local,467546.0,ECE
+3/26/2025 21:41:34,Girija kumari,Female,OBC,23456.0,3,Non-Local,35263.0,ME
+3/26/2025 21:41:34,Ganga,Female,General,46787.0,2,Local,579066.0,CSE
+3/26/2025 21:42:05,Raju,Male,General,3579.0,1,Local,546899.0,ME
+3/26/2025 21:42:22,Sanmena shaik,Female,SC,45789.0,3,Local,34567.0,EEE
+3/26/2025 21:42:36,Rani,Female,SC,54790.0,3,Non-Local,458993.0,EEE
+3/26/2025 21:43:27,Clara,Female,OBC,3566.0,1,Local,3579007.0,CSE
+3/26/2025 21:44:00,Mani,Male,General,457888.0,1,Local,4578906.0,ME
+3/26/2025 21:44:43,Imran,Male,ST,46899.0,2,Non-Local,46797546.0,ECE
+3/26/2025 21:46:41,Teddy,Male,General,10000.0,1,Local,500000.0,CSE
+3/26/2025 21:46:54,None of ur business,Female,General,322.0,1,Non-Local,10000000.0,CSE
+3/26/2025 21:47:45,Teddy,Male,General,10000.0,2,Local,600000.0,CSE
+3/26/2025 21:48:33,Surya,Female,OBC,9000.0,1,Non-Local,500000.0,ECE
+3/26/2025 21:50:50,Vamsi,Male,SC,25000.0,2,Local,300000.0,CSE
+3/26/2025 21:52:28,Prasanna,Female,General,1200.0,1,Local,50000.0,CSE
+3/26/2025 22:03:38,kishore,Male,SC,154784.0,2,Local,100000.0,EEE
+3/26/2025 22:04:41,uday,Male,General,225.0,1,Non-Local,750000.0,ECE
+3/26/2025 22:05:32,Ranna,Female,ST,65000.0,1,Local,25000.0,IT
+3/26/2025 22:17:17,G.Rishik,Male,OBC,21946.0,1,Non-Local,80000.0,CSE
+3/26/2025 22:25:48,Jon snow,Male,General,100000.0,1,Non-Local,300000.0,CSE
+3/26/2025 22:28:52,Chaitanya,Male,General,67412.0,2,Non-Local,300000.0,CSE
+3/26/2025 22:33:37,Santhosh,Male,General,512.0,1,Non-Local,200000.0,CSE
+3/26/2025 22:34:35,Kiran,Male,OBC,2367.0,1,Local,1000000.0,CSE
+3/26/2025 22:51:06,Jhansi Chekuri,Female,General,48475.0,2,Non-Local,100000.0,EEE
+3/26/2025 23:10:59,Penmetsa Sri Rishita Varma,Female,General,75435.0,2,Local,300000.0,CSE
+3/27/2025 5:51:03,Mr.Momon,Male,General,4.0,1,Local,20000.0,CSE
+3/27/2025 7:58:37,BSKN,Male,ST,1.0,1,Local,1000000000.0,CSE
